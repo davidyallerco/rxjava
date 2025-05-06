@@ -5,99 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be39e84a-4294-4429-8724-b177d334a511" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack00/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack01/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack01a/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack01b/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02a/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02b/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02c/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02d/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02e/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02f/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02g/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02h/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02i/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack02j/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack03/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack04/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack05/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack06/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack07/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack08/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack09/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack10/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack10a/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack10b/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack10c/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack10d/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack10e/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack11aMaybe/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack11bMaybe/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack11cMaybe/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack11dMaybe/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack11eMaybe/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack11fMaybe/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack11z/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack12/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack12/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack12a/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack12b/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack13/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack13a/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack13b/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack13c/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack14Range/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack15/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack15/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack16FlatMap/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack17doOnEach/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack17doOnEach/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack18Skip/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack18Skip/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack18Skip/Principal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack19distinct/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack19distinct/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack20distinctUntilChanged/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack20distinctUntilChanged/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack21/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack22/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack23/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack24Amb/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack24Amb/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack24Amb/Principal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack25Zip/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack25Zip/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack25Zip/Principal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack25Zip/Principal4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack25Zip/Principal5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack26conbineLatest/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack26conbineLatest/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack26conbineLatest/Principal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack27GroupBy/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack27GroupBy/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack27GroupBy/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack28Concurrencia/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack28Concurrencia/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack28Concurrencia/Principal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack28Concurrencia/Principal4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack29Paralelismo/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack30Replaying/ApiConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack30Replaying/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack30Replaying/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack30Replaying/Principal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack31Caching/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack31Caching/Principal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack32/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack33/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack34Subject/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack34Subject/Principal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack34Subject/Principal3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack35BehaviorSubject/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack35BehaviorSubject/Principal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack35BehaviorSubject/Principal3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack36ReplaySubject/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack36ReplaySubject/Principal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack36ReplaySubject/Principal3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack36ReplaySubject/Principal4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack36ReplaySubject/Principal5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack36ReplaySubject/Principal6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack37AsyncSubject/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack38Buffer/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack38Buffer/Principal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack38Buffer/Principal3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack38Buffer/Principal4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack38Buffer/Principal5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack38Buffer/Principal6SensorBatchProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack39Window/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack39Window/Principal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack39Window/Principal3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack39Window/Principal4FraudDetectionSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pack40/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,51 +60,26 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/smart10/Downloads/PatronFactoryMethod&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.example.pack31Caching" />
-      <recent name="org.example.pack32" />
-      <recent name="org.example.pack30Replaying" />
-      <recent name="org.example.pack31" />
-      <recent name="org.example.pack30" />
+      <recent name="org.example.pack38Buffer" />
+      <recent name="org.example.pack39Window" />
+      <recent name="org.example.pack40" />
+      <recent name="org.example.pack39" />
+      <recent name="org.example.pack36ReplaySubject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.pack31Caching.Principal2">
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.pack30Replaying.Principal" />
-      <module name="rxjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.pack30Replaying.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Principal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.pack30Replaying.Principal2" />
-      <module name="rxjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.pack30Replaying.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Principal4FraudDetectionSystem">
     <configuration name="Principal3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.pack30Replaying.Principal3" />
+      <option name="MAIN_CLASS_NAME" value="org.example.pack39Window.Principal3" />
       <module name="rxjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.pack30Replaying.*" />
+          <option name="PATTERN" value="org.example.pack39Window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.pack31Caching.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.pack31Caching.Principal" />
+    <configuration name="Principal4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.pack38Buffer.Principal4" />
       <module name="rxjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.pack31Caching.*" />
+          <option name="PATTERN" value="org.example.pack38Buffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +100,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.pack31Caching.Principal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.pack31Caching.Principal2" />
+    <configuration name="Principal4FraudDetectionSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.pack39Window.Principal4FraudDetectionSystem" />
       <module name="rxjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.pack31Caching.*" />
+          <option name="PATTERN" value="org.example.pack39Window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.pack38Buffer.Principal5" />
+      <module name="rxjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pack38Buffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal6SensorBatchProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.pack38Buffer.Principal6SensorBatchProcessor" />
+      <module name="rxjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pack38Buffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.pack31Caching.Principal2" />
-        <item itemvalue="Application.org.example.pack31Caching.Principal" />
-        <item itemvalue="Application.Principal3" />
-        <item itemvalue="Application.Principal2" />
-        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.Principal4FraudDetectionSystem" />
+        <item itemvalue="Application.Principal6SensorBatchProcessor" />
+        <item itemvalue="Application.Principal5" />
+        <item itemvalue="Application.Principal4" />
+        <item itemvalue="Application.org.example.pack39Window.Principal3" />
       </list>
     </recent_temporary>
   </component>
